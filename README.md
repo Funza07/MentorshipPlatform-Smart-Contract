@@ -84,5 +84,16 @@ The MentorshipPlatform smart contract is a decentralized platform that allows me
 - This contract does not handle real token transfers. Token transfer logic should be implemented using ERC20 standards for real-world applications.
 - This is a simple proof of concept and does not include advanced features like multi-signature wallets, admin controls, or decentralized identity verification.
 
+## Contact 
+Name : Bikram Tripathi
+Email : tripathbikram@gmail.com
+
+## Deployment : 
+
+Contract Address : 0x089a4f6dfcc411fed7c7af4fec00df7261e3062b
+![image](https://github.com/user-attachments/assets/2aa8e387-3904-44ba-ab47-a9c18cf0d271)
+
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
