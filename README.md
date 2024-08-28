@@ -1,5 +1,8 @@
 # MentorshipPlatform Smart Contract
 
+## Vision
+To create a decentralized, transparent, and secure platform that connects students with mentors based on specific skill requirements, fostering personalized learning and professional growth.
+
 ## Overview
 The MentorshipPlatform smart contract is a decentralized platform that allows mentors to offer their skills and students to select mentors based on their skill requirements. The contract facilitates the registration of mentors and students, matching based on skills, and transaction handling when a student selects a mentor.
 
